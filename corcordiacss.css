@@ -1,0 +1,48 @@
+#image {
+	position: fixed;
+	left: 20px;	
+}
+
+#home {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	position: fixed;
+	right: 500px;
+	top: auto;	
+}
+
+#colsulta-estoque {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	width: 3px;
+	font-size: 30px;
+	position: fixed;
+	right: 200px;
+	top: auto;	
+}
+
+#contato {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	position: fixed;
+	right: 20px;
+	top: auto;
+}
+
+#pedido {
+	font-size: 40px;
+	position: absolute;
+	top: 10%;
+	left: 40%;
+}
+
+#textarea1 {
+	font-size: 20px;
+	position: absolute;
+	left: 5px;
+}
+
+#textarea2 {
+	font-size: 20px;
+	position: absolute;
+	left: 5px;
+}
